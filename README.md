@@ -13,7 +13,7 @@ GDK (Google Developer Kit) Platform, GDT (Google Developer Tools)
 > Check if your OS-specific developer SDK (Software Developement Kit) or DK (Developer Kit) is installed correctly. If it is not installed or is not installed ***properly***, search on the Internet for your OS or developer tools specific SDK or DK.
 
 1. Google APIs that you can use:
-`
+
 Java:
 
     Guava (Google core libraries): com.google.guava
@@ -260,4 +260,3 @@ Python:
     TensorFlow Serving Savant Model Serving DelegatingHandler: tensorflow-serving- delegatinghandler
     TensorFlow Serving Savant Model Serving FilterBase: tensorflow-serving-filterbase
     TensorFlow Serving Savant Model Serving ExceptionFilterBase: tensorflow-serving- exceptionfilterbase
-`
